@@ -121,10 +121,6 @@ and 01 05 06
 
 wastes not otherwise specified
 
-7
-
-Environmental Protection Agency | List of Waste
-
 02
 
 WASTES FROM AGRICULTURE, HORTICULTURE, AQUACULTURE,
@@ -251,10 +247,6 @@ sludges from on-site effluent treatment
 02 04 99
 
 wastes not otherwise specified
-
-8
-
-Environmental Protection Agency | List of Waste
 
 02 05
 
@@ -395,10 +387,6 @@ de-inking sludges from paper recycling
 03 03 07
 
 mechanically separated rejects from pulping of waste paper and cardboard
-
-9
-
-Environmental Protection Agency | List of Waste
 
 03 03 08
 
@@ -541,10 +529,6 @@ acid alkyl sludges
 05 01 05*
 
 oil spills
-
-10
-
-Environmental Protection Agency | List of Waste
 
 05 01 06*
 
@@ -694,10 +678,6 @@ other bases
 
 wastes not otherwise specified
 
-11
-
-Environmental Protection Agency | List of Waste
-
 06 03
 
 wastes from the MFSU of salts and their solutions and metallic oxides
@@ -837,10 +817,6 @@ wastes not otherwise specified
 
 wastes from the MFSU of nitrogen chemicals, nitrogen chemical processes
 and fertiliser manufacture
-
-12
-
-Environmental Protection Agency | List of Waste
 
 06 10 02*
 
@@ -987,10 +963,6 @@ waste plastic
 
 wastes from additives containing hazardous substances
 
-13
-
-Environmental Protection Agency | List of Waste
-
 07 02 15
 
 wastes from additives other than those mentioned in 07 02 14
@@ -1136,10 +1108,6 @@ other filter cakes and spent absorbents
 
 sludges from on-site effluent treatment containing hazardous substances
 
-14
-
-Environmental Protection Agency | List of Waste
-
 07 05 12
 
 sludges from on-site effluent treatment other than those mentioned in 07 05 11
@@ -1273,10 +1241,6 @@ substances
 
 sludges from paint or varnish other than those mentioned in 08 01 13
 
-15
-
-Environmental Protection Agency | List of Waste
-
 08 01 15*
 
 aqueous sludges containing paint or varnish containing organic solvents or other
@@ -1408,10 +1372,6 @@ adhesive and sealant sludges other than those mentioned in 08 04 11
 
 aqueous sludges containing adhesives or sealants containing organic solvents or
 other hazardous substances
-
-16
-
-Environmental Protection Agency | List of Waste
 
 08 04 14
 
@@ -1549,10 +1509,6 @@ fly ash from emulsified hydrocarbons used as fuel
 
 bottom ash, slag and boiler dust from co-incineration containing hazardous
 substances
-
-17
-
-Environmental Protection Agency | List of Waste
 
 10 01 15
 
@@ -1693,10 +1649,6 @@ skimmings other than those mentioned in 10 03 15
 
 tar-containing wastes from anode manufacture
 
-18
-
-Environmental Protection Agency | List of Waste
-
 10 03 18
 
 carbon-containing wastes from anode manufacture other than those mentioned in
@@ -1832,10 +1784,6 @@ wastes from cooling-water treatment containing oil
 10 05 09
 
 wastes from cooling-water treatment other than those mentioned in 10 05 08
-
-19
-
-Environmental Protection Agency | List of Waste
 
 10 05 10*
 
@@ -1976,10 +1924,6 @@ flue-gas dust other than those mentioned in 10 08 15
 
 sludges and filter cakes from flue-gas treatment containing hazardous substances
 
-20
-
-Environmental Protection Agency | List of Waste
-
 10 08 18
 
 sludges and filter cakes from flue-gas treatment other than those mentioned in 10
@@ -2112,10 +2056,6 @@ waste binders containing hazardous substances
 10 10 14
 
 waste binders other than those mentioned in 10 10 13
-
-21
-
-Environmental Protection Agency | List of Waste
 
 10 10 15*
 
@@ -2255,10 +2195,6 @@ products made from them
 
 waste preparation mixture before thermal processing
 
-22
-
-Environmental Protection Agency | List of Waste
-
 10 13 04
 
 wastes from calcination and hydration of lime
@@ -2391,10 +2327,6 @@ wastes from the production of anodes for aqueous electrolytical processes
 11 02 05*
 
 wastes from copper hydrometallurgical processes containing hazardous substances
-
-23
-
-Environmental Protection Agency | List of Waste
 
 11 02 06
 
@@ -2539,10 +2471,6 @@ spent grinding bodies and grinding materials other than those mentioned in 12 01
 
 wastes not otherwise specified
 
-24
-
-Environmental Protection Agency | List of Waste
-
 12 03
 
 wastes from water and steam degreasing processes (except 11)
@@ -2685,10 +2613,6 @@ interceptor sludges
 
 oil from oil/water separators
 
-25
-
-Environmental Protection Agency | List of Waste
-
 13 05 07*
 
 oily water from oil/water separators
@@ -2822,12 +2746,6 @@ protective clothing contaminated by hazardous substances
 absorbents, filter materials, wiping cloths and protective clothing other than those
 mentioned in 15 02 02
 
-26
-
-Environmental Protection Agency | List of Waste
-
-1	
-
 16
 
 WASTES NOT OTHERWISE SPECIFIED IN THE LIST
@@ -2957,13 +2875,6 @@ hazardous components removed from discarded equipment
 
 components removed from discarded equipment other than those mentioned in 16
 02 15
-
-Hazardous components from electrical and electronic equipment may include accumulators and batteries mentioned
-in 16 06 and marked as hazardous; mercury switches, glass from cathode ray tubes and other activated glass, etc.
-
-27
-
-Environmental Protection Agency | List of Waste
 
 16 03
 
@@ -3102,10 +3013,6 @@ otherwise specified
 
 spent fluid catalytic cracking catalysts (except 16 08 07)
 
-28
-
-Environmental Protection Agency | List of Waste
-
 16 08 05*
 
 spent catalysts containing phosphoric acid
@@ -3238,10 +3145,6 @@ glass
 17 02 03
 
 plastic
-
-29
-
-Environmental Protection Agency | List of Waste
 
 17 02 04*
 
@@ -3376,10 +3279,6 @@ other construction and demolition wastes
 
 construction and demolition wastes containing mercury
 
-30
-
-Environmental Protection Agency | List of Waste
-
 17 09 02*
 
 construction and demolition wastes containing PCB (for example PCB-containing
@@ -3480,10 +3379,6 @@ cytotoxic and cytostatic medicines
 18 02 08
 
 medicines other than those mentioned in 18 02 07
-
-31
-
-Environmental Protection Agency | List of Waste
 
 19
 
@@ -3625,10 +3520,6 @@ solidified wastes other than those mentioned in 19 03 06
 
 partly stabilised mercury
 
-32
-
-Environmental Protection Agency | List of Waste
-
 19 04
 
 vitrified waste and wastes from vitrification
@@ -3765,10 +3656,6 @@ sludges from other treatment of industrial waste water other than those mentione
 19 08 99
 
 wastes not otherwise specified
-
-33
-
-Environmental Protection Agency | List of Waste
 
 19 09
 
@@ -3917,10 +3804,6 @@ combustible waste (refuse derived fuel)
 other wastes (including mixtures of materials) from mechanical treatment of waste
 containing hazardous substances
 
-34
-
-Environmental Protection Agency | List of Waste
-
 19 12 12
 
 other wastes (including mixtures of materials) from mechanical treatment of wastes
@@ -4059,12 +3942,6 @@ medicines other than those mentioned in 20 01 31
 batteries and accumulators included in 16 06 01, 16 06 02 or 16 06 03 and unsorted
 batteries and accumulators containing these batteries
 
-35
-
-Environmental Protection Agency | List of Waste
-
-2	
-
 20 01 34
 
 batteries and accumulators other than those mentioned in 20 01 33
@@ -4150,8 +4027,4 @@ bulky waste
 20 03 99
 
 municipal wastes not otherwise specified
-
-Hazardous components from electrical and electronic equipment may include accumulators and batteries mentioned
-in 16 06 and marked as hazardous; mercury switches, glass from cathode ray tubes and other activated glass etc.
-
 
